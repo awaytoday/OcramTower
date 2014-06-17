@@ -9,3 +9,6 @@ more manageable viewing field.
 
 The main page is OcramTower-prealpha1.html and it might take a while to load. I recommend you open it in a private tab
 or in Internet Explorer 10+.
+
+An improved page is OcramTower-prealpha2.html, it has more of the images loaded in memory though it makes very little usage of the
+occupied rooms. The top 40~ floors are still incomplete as of June 17, 2014 but the whole tower will look logical and pretty soon.
